@@ -1,0 +1,71 @@
+<!Doctype html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>portfolio</title>
+</head>
+<body>
+<main>
+
+  <div class="card-body">
+              <p class="card-text"><b class="red">Bienvenue sur mon portfolio</b></p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="7.jpg" ><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em"></text></svg>
+
+            <div class="card-body">
+              <p class="card-text"> Réalisation d'une publicité recommandé par heineken (réaliser en france)</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="11.jpg"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em"></text></svg>
+
+            <div class="card-body">
+              <p class="card-text">une photo prise lors de montage d'un film réalisé sur la danse brasilien appélé samba</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="14.jpg"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em"></text></svg>
+
+            <div class="card-body">
+              <p class="card-text">tournage du  clip  réaliser de l'artiste wizkid un clip qui a était choisi et récompenser en 2022 au  BET AWARD</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <svg class="bd-placeholder-img card-i
+</body>
+</html>
